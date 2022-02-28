@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: background-forest-2
+  m_Name: background-forest-5 1
   m_Shader: {fileID: 10750, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -20,9 +20,9 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: d6ff40ef2aa8e0747a6b0ab250109306, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4e0c7dcedd5ae344f95d0258c32edcd2, type: 3}
         m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0.29380658, y: 0}
+        m_Offset: {x: 0, y: 0}
     m_Floats: []
     m_Colors: []
   m_BuildTextureStacks: []
