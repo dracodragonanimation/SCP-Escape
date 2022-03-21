@@ -154,7 +154,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MinimumSize: {x: 1, y: 1, z: 0}
-  MaximumSize: {x: 3, y: 2, z: 0}
+  MaximumSize: {x: 1, y: 1, z: 0}
   PreserveRatio: 0
   MinimumRotation: {x: 0, y: 0, z: 0}
   MaximumRotation: {x: 0, y: 0, z: 0}
@@ -162,8 +162,8 @@ MonoBehaviour:
   OnlySpawnWhileGameInProgress: 0
   InitialDelay: 0
   GapOrigin: 0
-  MinimumGap: {x: 3, y: 0, z: 0}
-  MaximumGap: {x: 6, y: 3, z: 0}
+  MinimumGap: {x: 0, y: 0, z: 0}
+  MaximumGap: {x: 0, y: 0, z: 0}
   MinimumYClamp: -3.91
   MaximumYClamp: 2.29
   MinimumZClamp: 0
@@ -207,6 +207,38 @@ MonoBehaviour:
     PoolSize: 5
     PoolCanExpand: 1
     Enabled: 1
+  - GameObjectToPool: {fileID: 183730, guid: 89db4a004864b674fb3ba320e8769c13, type: 3}
+    PoolSize: 5
+    PoolCanExpand: 1
+    Enabled: 1
+  - GameObjectToPool: {fileID: 183730, guid: 9537769012e5d784aae960af41aef62f, type: 3}
+    PoolSize: 5
+    PoolCanExpand: 1
+    Enabled: 1
+  - GameObjectToPool: {fileID: 183730, guid: 0c9dd1efb70ce144db60289a8f94122b, type: 3}
+    PoolSize: 10
+    PoolCanExpand: 1
+    Enabled: 1
+  - GameObjectToPool: {fileID: 183730, guid: 9537769012e5d784aae960af41aef62f, type: 3}
+    PoolSize: 5
+    PoolCanExpand: 1
+    Enabled: 1
+  - GameObjectToPool: {fileID: 183730, guid: 9537769012e5d784aae960af41aef62f, type: 3}
+    PoolSize: 5
+    PoolCanExpand: 1
+    Enabled: 1
+  - GameObjectToPool: {fileID: 183730, guid: 9537769012e5d784aae960af41aef62f, type: 3}
+    PoolSize: 5
+    PoolCanExpand: 1
+    Enabled: 1
+  - GameObjectToPool: {fileID: 183730, guid: 9537769012e5d784aae960af41aef62f, type: 3}
+    PoolSize: 5
+    PoolCanExpand: 1
+    Enabled: 1
+  - GameObjectToPool: {fileID: 183730, guid: 9537769012e5d784aae960af41aef62f, type: 3}
+    PoolSize: 5
+    PoolCanExpand: 1
+    Enabled: 1
   PoolingMethod: 3
   CanPoolSameObjectTwice: 1
 --- !u!1 &494759653
@@ -226,7 +258,7 @@ GameObject:
   - component: {fileID: 494759655}
   - component: {fileID: 494759654}
   m_Layer: 8
-  m_Name: JellyForestStartPlatform
+  m_Name: STARTPLAT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -774,6 +806,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 11474582, guid: 0ac921368d5dc434a84f941fe46da470, type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 22428336, guid: 0ac921368d5dc434a84f941fe46da470, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -879,7 +915,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   StartingPosition: {fileID: 1721065702}
   PlayableCharacters:
-  - {fileID: 11483956, guid: 71a5a2cf71ee85143b79f2b726ab594e, type: 3}
+  - {fileID: 11483956, guid: b924af8abb6c9b6449352361db2e209e, type: 3}
   DistanceBetweenCharacters: 1
   PointsPerSecond: 20
   InstructionsText: 'Desktop : Press space or A (pad) to jump.
@@ -1053,9 +1089,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 147604, guid: 5bd81293059a7fa4393b5ae1d239de5d, type: 3}
+      propertyPath: m_Name
+      value: BACKGROUND
+      objectReference: {fileID: 0}
     - target: {fileID: 409360, guid: 5bd81293059a7fa4393b5ae1d239de5d, type: 3}
       propertyPath: m_RootOrder
       value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 409360, guid: 5bd81293059a7fa4393b5ae1d239de5d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 409360, guid: 5bd81293059a7fa4393b5ae1d239de5d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 409360, guid: 5bd81293059a7fa4393b5ae1d239de5d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1063,7 +1111,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 409360, guid: 5bd81293059a7fa4393b5ae1d239de5d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.37
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 409360, guid: 5bd81293059a7fa4393b5ae1d239de5d, type: 3}
       propertyPath: m_LocalPosition.z
