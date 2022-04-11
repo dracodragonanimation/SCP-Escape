@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: 0bfcfe4eef48b214ca36d71ffef71a81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -110784248899314067
+    second: SCPASSESTS_0
+  - first:
+      213: -3012021481321124494
+    second: SCPASSESTS_1
+  - first:
+      213: 601411805269424237
+    second: SCPASSESTS_2
+  - first:
+      213: 2082071154235971330
+    second: SCPASSESTS_3
+  - first:
+      213: 1907642868044747006
+    second: SCPASSESTS_4
+  - first:
+      213: 3531965312359956903
+    second: SCPASSESTS_5
+  - first:
+      213: -3547324723006479683
+    second: SCPASSESTS_6
+  - first:
+      213: -3886966300861100012
+    second: SCPASSESTS_7
+  - first:
+      213: -1324971645409699560
+    second: SCPASSESTS_8
+  - first:
+      213: 991940355694010228
+    second: SCPASSESTS_9
+  - first:
+      213: 3383098379879357342
+    second: SCPASSESTS_10
+  - first:
+      213: 7449374203287159907
+    second: SCPASSESTS_11
+  - first:
+      213: -5717448386348349870
+    second: SCPASSESTS_12
+  - first:
+      213: 3323990416218801275
+    second: SCPASSESTS_13
+  - first:
+      213: 2380251749898122531
+    second: SCPASSESTS_14
+  - first:
+      213: -3133340154476260136
+    second: SCPASSESTS_15
+  - first:
+      213: -1886602197443047800
+    second: SCPASSESTS_16
+  - first:
+      213: -9034438427893870752
+    second: SCPASSESTS_17
+  - first:
+      213: -5831583637845696293
+    second: SCPASSESTS_18
+  - first:
+      213: 1772099040158774857
+    second: SCPASSESTS_19
+  - first:
+      213: 4658829460373653922
+    second: SCPASSESTS_20
+  - first:
+      213: -4281335725713190320
+    second: SCPASSESTS_21
+  - first:
+      213: -5026980153481747309
+    second: SCPASSESTS_22
+  - first:
+      213: 4841470634808771273
+    second: SCPASSESTS_23
+  - first:
+      213: 4358198778315174337
+    second: SCPASSESTS_24
+  - first:
+      213: 234376357549130152
+    second: SCPASSESTS_25
+  - first:
+      213: -581733446397847686
+    second: SCPASSESTS_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SCPASSESTS_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 364
+        width: 42
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ed5a5005a667ef0800000000000000
+      internalID: -110784248899314067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 365
+        width: 92
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d220ecb662336d0800000000000000
+      internalID: -3012021481321124494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 364
+        width: 114
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d687fc8b9d4a85800800000000000000
+      internalID: 601411805269424237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 273
+        width: 102
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2079259fea005ec10800000000000000
+      internalID: 2082071154235971330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 273
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef05d14d41f497a10800000000000000
+      internalID: 1907642868044747006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 270
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1873a0dbf040130800000000000000
+      internalID: 3531965312359956903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_6
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 273
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2ec3e75fe55cec0800000000000000
+      internalID: -3547324723006479683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 169
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410924f4eb8be0ac0800000000000000
+      internalID: -3886966300861100012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 218
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819d3e9fe41cc9de0800000000000000
+      internalID: -1324971645409699560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 168
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f148b7f7414cd00800000000000000
+      internalID: 991940355694010228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 202
+        width: 101
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b98e45d0e23fe20800000000000000
+      internalID: 3383098379879357342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 71
+        width: 67
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364c3e19e5e716760800000000000000
+      internalID: 7449374203287159907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 15
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25683162cfa87a0b0800000000000000
+      internalID: -5717448386348349870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 49
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74468b1caf212e20800000000000000
+      internalID: 3323990416218801275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 48
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325fdacfa5a580120800000000000000
+      internalID: 2380251749898122531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 48
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d499fb0bb32484d0800000000000000
+      internalID: -3133340154476260136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e8fec0c4171d5e0800000000000000
+      internalID: -1886602197443047800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 48
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f4f38cd1a3f9280800000000000000
+      internalID: -9034438427893870752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 48
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd02a34149d021fa0800000000000000
+      internalID: -5831583637845696293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 48
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946797320b2c79810800000000000000
+      internalID: 1772099040158774857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_20
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 48
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a942bee5bc77a040800000000000000
+      internalID: 4658829460373653922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0521da847d3a594c0800000000000000
+      internalID: -4281335725713190320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_22
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 48
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39428ca3f249c3ab0800000000000000
+      internalID: -5026980153481747309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2034224eb503340800000000000000
+      internalID: 4841470634808771273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_24
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 48
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1740ab2be6b7c30800000000000000
+      internalID: 4358198778315174337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 48
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1477f2e0ca04300800000000000000
+      internalID: 234376357549130152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPASSESTS_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 48
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a771e7d33844de7f0800000000000000
+      internalID: -581733446397847686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
