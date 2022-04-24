@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: da63958b13559e94aa700f159d91c2a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3431285352621405208
+    second: SCPE_Runner_Sprites (1)_0
+  - first:
+      213: -1523603996840558641
+    second: SCPE_Runner_Sprites (1)_1
+  - first:
+      213: -958414988366815795
+    second: SCPE_Runner_Sprites (1)_2
+  - first:
+      213: 723683841086013899
+    second: SCPE_Runner_Sprites (1)_3
+  - first:
+      213: -3437509479697253648
+    second: SCPE_Runner_Sprites (1)_4
+  - first:
+      213: 7383350587787788549
+    second: SCPE_Runner_Sprites (1)_5
+  - first:
+      213: 5540820813043517441
+    second: SCPE_Runner_Sprites (1)_6
+  - first:
+      213: 5656211800921783976
+    second: SCPE_Runner_Sprites (1)_7
+  - first:
+      213: 8090311976555379649
+    second: SCPE_Runner_Sprites (1)_8
+  - first:
+      213: 1306985165833990921
+    second: SCPE_Runner_Sprites (1)_9
+  - first:
+      213: -8502237469968926042
+    second: SCPE_Runner_Sprites (1)_10
+  - first:
+      213: 53805994828952609
+    second: SCPE_Runner_Sprites (1)_11
+  - first:
+      213: 6160867499686859425
+    second: SCPE_Runner_Sprites (1)_12
+  - first:
+      213: 5963338165970154380
+    second: SCPE_Runner_Sprites (1)_13
+  - first:
+      213: -8570697158208300211
+    second: SCPE_Runner_Sprites (1)_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SCPE_Runner_Sprites (1)_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3429
+        width: 2023
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb000ac620a160d0800000000000000
+      internalID: -3431285352621405208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPE_Runner_Sprites (1)_1
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 3748
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcff3fdbc321bdae0800000000000000
+      internalID: -1523603996840558641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPE_Runner_Sprites (1)_2
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 3381
+        width: 2036
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd5cfe55a603b2f0800000000000000
+      internalID: -958414988366815795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPE_Runner_Sprites (1)_3
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 3369
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc14f958e9a0b0a00800000000000000
+      internalID: 723683841086013899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPE_Runner_Sprites (1)_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2677
+        width: 1938
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa7b9647538b40d0800000000000000
+      internalID: -3437509479697253648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPE_Runner_Sprites (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 2974
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501434dad3ee67660800000000000000
+      internalID: 7383350587787788549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPE_Runner_Sprites (1)_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1887
+        width: 1964
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108cc854c23f4ec40800000000000000
+      internalID: 5540820813043517441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPE_Runner_Sprites (1)_7
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2115
+        width: 2043
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeb0504aa6ee7e40800000000000000
+      internalID: 5656211800921783976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPE_Runner_Sprites (1)_8
+      rect:
+        serializedVersion: 2
+        x: 4277
+        y: 2447
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbfbacd0ef864070800000000000000
+      internalID: 8090311976555379649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPE_Runner_Sprites (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1870
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9037d386518532210800000000000000
+      internalID: 1306985165833990921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPE_Runner_Sprites (1)_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 978
+        width: 1941
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa7c7e511cf10a80800000000000000
+      internalID: -8502237469968926042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPE_Runner_Sprites (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 1318
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124f09864482fb000800000000000000
+      internalID: 53805994828952609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPE_Runner_Sprites (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 944
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2951b695ccf7550800000000000000
+      internalID: 6160867499686859425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPE_Runner_Sprites (1)_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 83
+        width: 2023
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c833e22877802c250800000000000000
+      internalID: 5963338165970154380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCPE_Runner_Sprites (1)_14
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 430
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b5b871854ce0980800000000000000
+      internalID: -8570697158208300211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

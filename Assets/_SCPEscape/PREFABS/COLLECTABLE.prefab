@@ -10,9 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 484974}
   - component: {fileID: 21235924}
-  - component: {fileID: 6113304}
   - component: {fileID: 11436804}
   - component: {fileID: 11463890}
+  - component: {fileID: -7574329394262699678}
   m_Layer: 0
   m_Name: COLLECTABLE
   m_TagString: Untagged
@@ -74,7 +74,8 @@ SpriteRenderer:
   m_SortingLayerID: -232623025
   m_SortingLayer: 5
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: e134a06d5274543a8971a36915a1e676, type: 3}
+  m_Sprite: {fileID: 5630542577887327907, guid: 49e3a01377ce7114f91d570a24a52734,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -85,7 +86,35 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!61 &6113304
+--- !u!114 &11436804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 196600}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4038c69f3ecb34a3ab2a6dc680ff2114, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PickEffect: {fileID: 100000, guid: 59974b84f1045ff48b1de5a8237423bb, type: 3}
+  PickSoundFx: {fileID: 0}
+  PointsToAdd: 10
+--- !u!114 &11463890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 196600}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8dfcf067ae58bc44a90d411719a8621, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PositionOffset: {x: 0, y: 5, z: 0}
+--- !u!61 &-7574329394262699678
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -102,40 +131,12 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.56, y: 2.56}
+    oldSize: {x: 0.69, y: 0.63}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2.56, y: 2.56}
+  m_Size: {x: 0.69, y: 0.63}
   m_EdgeRadius: 0
---- !u!114 &11436804
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 196600}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4038c69f3ecb34a3ab2a6dc680ff2114, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickEffect: {fileID: 100000, guid: be90682abef6e4f04a967efa22890b9a, type: 3}
-  PickSoundFx: {fileID: 0}
-  PointsToAdd: 10
---- !u!114 &11463890
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 196600}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a8dfcf067ae58bc44a90d411719a8621, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PositionOffset: {x: 0, y: 5, z: 0}
