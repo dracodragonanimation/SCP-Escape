@@ -282,6 +282,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: TableFull
       objectReference: {fileID: 0}
+    - target: {fileID: 6523752265069758545, guid: 93c907bee8f90b24c80463a699f361aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 8059805621524260046, guid: 93c907bee8f90b24c80463a699f361aa,
         type: 3}
       propertyPath: m_RootOrder
